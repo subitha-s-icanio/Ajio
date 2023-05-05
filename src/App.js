@@ -7,7 +7,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Routes />
-    </ThemeProvider>  
+    </ThemeProvider>    
   );
 }
 
